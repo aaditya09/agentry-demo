@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "cluster": "aaditya-xdp-dev",
+  "secrets": [
+    "AGENTRY_CP_URL",
+    "AGENTRY_CP_TOKEN",
+    "AGENTRY_INTEGRATIONS"
+  ]
+}

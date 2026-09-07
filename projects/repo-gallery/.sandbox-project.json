@@ -1,0 +1,10 @@
+{
+  "name": "repo-gallery",
+  "type": "app",
+  "start_command": [
+    "sh",
+    "-c",
+    "exec python3 -m http.server \"${PORT:-8000}\""
+  ],
+  "auto_restart": true
+}
